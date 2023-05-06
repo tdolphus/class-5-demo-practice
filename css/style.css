@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto&display=swap');
+html{
+    font-size:10px;
+    color:#FFBBFF;
+    
+}
+
+section{
+    font-size:5px;
+    
+}
+section p{
+    font-family: 'Roboto', sans-serif;
+    font-size:2rem;
+    text-align: left;
+    line-height: 2;
+}
